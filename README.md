@@ -20,4 +20,4 @@
 - Обработка сетевых ошибок (нет сети, таймаут, rate limit)
 - Mock-режим для запуска без API-ключа: `flutter run --dart-define=USE_MOCK=true`
 
-Ссылка для скачивания apk - 
+Ссылка для скачивания apk - https://drive.google.com/file/d/1XArYlkIpq8rHHypZXuzA5WebeGVdgofv/view?usp=drive_link
